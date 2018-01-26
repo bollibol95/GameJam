@@ -383,3 +383,5 @@ DerivedDataCache/*
 /DerivedDataCache
 /Intermediate
 /Saved
+
+**/EditorPerProjectUserSettings.ini
